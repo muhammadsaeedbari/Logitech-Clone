@@ -1,0 +1,14 @@
+…or push an existing repository from the command line
+git remote add origin https://github.com/muhammadsaeedbari/Logitech-Clone.git
+git branch -M main
+git push -u origin main
+
+
+
+
+chatGPT recommend me:
+...or push an existing repository from the command line
+
+git add .
+git commit -m "Your message"
+git push
