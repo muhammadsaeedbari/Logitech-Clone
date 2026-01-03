@@ -32,8 +32,8 @@
 }
 
 .hero2 {
-    background-image: url("./Heroimages/White-hero-image.png");
-    height: 85vh;
+    background-image: url("./Heroimages/White-hero-image.png ");
+    height: 75%;
     width: 100%;
     background-size: cover;
     background-position: center;
