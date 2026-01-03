@@ -1,0 +1,44 @@
+
+*{
+    margin: 0;
+    padding: 0;
+
+}
+#nav1{
+    background-color: #d6f5f0 ;
+    height: auto;
+
+}
+#nav2{
+    background-color: #ffffff ;
+    height: 4.5rem;
+    
+}
+
+
+#footercolumns a{
+    font-size: 0.75rem;
+    color: black;
+    opacity: 60%;
+    text-decoration: none;
+    line-height: 200%;
+}
+
+#footercolumns p{
+    font-size: 0.75rem;
+     opacity: 75%;
+     margin: 0px;
+     padding: 10px 0px;
+}
+
+.hero2 {
+    background-image: url("./Heroimages/White-hero-image.png");
+    height: 85vh;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+}
+
+
